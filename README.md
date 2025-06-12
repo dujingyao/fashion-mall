@@ -76,7 +76,7 @@ fashion-mall/
 1. **克隆项目**
 
    ```bash
-   git clone https://github.com/your-username/fashion-mall.git
+   git clone https://github.com/dujingyao/fashion-mall.git
    cd fashion-mall
    ```
 2. **启动本地服务器**
@@ -86,9 +86,7 @@ fashion-mall/
    - 或直接在浏览器中打开 [index.html](index.html)
 3. **访问网站**
 
-   ```
-   http://localhost:8000
-   ```
+   https://dujingyao.github.io/fashion-mall/
 
 ## 📋 功能详情
 
